@@ -715,7 +715,7 @@ class QueryDataTable extends DataTableAbstract
     }
 
     /**
-     * Get NULLS LAST SQL.
+     * Get NULLS LAST SQL
      *
      * @param  string  $column
      * @param  string  $direction
